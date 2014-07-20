@@ -2,7 +2,7 @@
 Summary:	Character encoding auto-detection in Ruby
 Name:		ruby-%{pkgname}
 Version:	1.3
-Release:	1
+Release:	2
 License:	LGPL
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
 # Source0-md5:	80b7fc37399c108109baab60ad381532
